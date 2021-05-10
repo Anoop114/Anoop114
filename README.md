@@ -1,13 +1,13 @@
 ### Radhe Radhe 🙏, I'm [Anoop Kumar Sharma!]  👋
 
-
+<!--
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anoop114&theme=dracula&hide_langs_below=1" />
 Here are some ideas to get you started:
 - 🔭 I’m currently working on 
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
+-->
 
 
 - 🌱 I’m currently learning Game Devlopment
