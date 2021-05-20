@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 <code><img height="70" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
 <code><img height="70" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="70" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code> 
-<!-- 
+
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anoop114&layout=compact" alt="Anoop114" /></p>
--->
+
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Anoop114&show_icons=true&theme=dracula&line_height=27" alt="Pawan's github stats" />
