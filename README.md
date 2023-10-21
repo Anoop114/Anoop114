@@ -3,14 +3,14 @@
 <h1 align="center"> Anoop Kumar Sharma </h1>
 <h3 align="center">Unity game developer with 2+ years of experience in 2D, 3D, AR, and VR games. Ready to help other developers succeed!</h3>
 
-<img align="right" alt="Coding" width="300" style="border-radius: 20px" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
 
 - 🌱 I’m currently learning **DevOps, System Design, etc.**
 - 👨‍💻 All of my projects are available at [https://anoop114.github.io/Portfolio/](https://anoop114.github.io/Portfolio/)
 - 💬 Ask me about **Unity Game Engine, (2D,3D,Ar,Vr,Mr => Games), C#.**
 - 📫 How to reach me **Anoopkrsh22@gmail.com**
 - ⚡ Fun fact **IF YOU WANT YOUR CODE TO BE EASY TO WRITE, MAKE IT EASY TO READ.**
+
+<img align="right" alt="Coding" width="300" style="border-radius: 20px" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -48,7 +48,11 @@
 
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anoop114&theme=dracula&hide_langs_below=1" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anoop114&" alt="anoop114" /></p>
+&nbsp;
+&nbsp;
+&nbsp;
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anoop114&theme=dracula&hide_langs_below=1" />
+  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=anoop114&" alt="anoop114" />
+</p>
 
