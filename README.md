@@ -53,6 +53,6 @@
 &nbsp;
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anoop114&theme=dracula&hide_langs_below=1" />
-  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=anoop114&" alt="anoop114" />
+  <!--<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=anoop114&" alt="anoop114" /> -->
 </p>
 
