@@ -1,7 +1,7 @@
 [![MasterHead](https://learn.microsoft.com/en-us/windows/mixed-reality/mrtk-unity/mrtk2/features/images/interactive-element/ineditor/gifs/positionoffset.gif?view=mrtkunity-2022-05)](https://anoop114.github.io/Portfolio/)
 
 <h1 align="center"> Anoop Kumar Sharma </h1>
-<h3 align="center">Unity game developer with 2+ years of experience in 2D, 3D, AR, and VR games. Ready to help other developers succeed!</h3>
+<h3 align="center">Unity game developer with 3+ years of experience in 2D, 3D, AR, and VR games. Ready to help other developers succeed!</h3>
 
 
 - 🌱 I’m currently learning **DevOps, System Design, etc.**
